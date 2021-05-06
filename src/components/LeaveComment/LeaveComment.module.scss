@@ -1,0 +1,16 @@
+.Comments {
+    margin-top: 80px;
+    &Btn {
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+.ProfilePhoto {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.Wrapper {
+    display: flex;
+}

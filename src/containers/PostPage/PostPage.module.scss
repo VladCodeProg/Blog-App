@@ -1,0 +1,37 @@
+.Main {
+    &Photo {
+        width: 78%;
+        border-radius: 14px;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    &Content {
+        h3 {
+            margin-bottom: 25px;
+        }
+    }
+}
+.Loader {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.OtherPosts {
+    h5 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+}
+.Error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #be0000;
+    svg {
+        font-size: 55px;
+    }
+    h2 {
+        text-transform: uppercase;
+    }
+}

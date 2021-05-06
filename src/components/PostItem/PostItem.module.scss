@@ -1,0 +1,17 @@
+.Card {
+    width: 380px;
+    &Photo {
+        height: 110px;
+    }
+    &Other {
+        position: sticky;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    &Featured {
+        width: 100%;
+        .CardPhoto {
+            height: 170px;
+        }
+    }
+}
