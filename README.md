@@ -14,9 +14,7 @@ Run `npm i` to install all dependencies
 
 A small memory leak appears after post creation.
 
-Post scheme
-
-`
+###### Post scheme
  - comments
  - date
  - descr
@@ -24,11 +22,8 @@ Post scheme
  - title
 `
 
-Comment scheme
-
-`
+###### Comment scheme
  - date
  - displayName
  - photoURL
  - text
-`
