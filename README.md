@@ -15,15 +15,14 @@ Run `npm i` to install all dependencies
 A small memory leak appears after post creation.
 
 ###### Post scheme
- - comments
- - date
- - descr
- - photo
- - title
-`
+    - comments
+    - date
+    - descr
+    - photo
+    - title
 
 ###### Comment scheme
- - date
- - displayName
- - photoURL
- - text
+    - date
+    - displayName
+    - photoURL
+    - text
